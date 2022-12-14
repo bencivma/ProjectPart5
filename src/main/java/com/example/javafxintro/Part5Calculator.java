@@ -45,7 +45,7 @@ public class Part5Calculator extends Application {
         Button num6 = new Button("6");
         pane.add(num6, 22, 15);
 
-        Button divide = new Button("/");
+        Button divide = new Button("÷");
         pane.add(divide, 24, 15);
 
         Button num7 = new Button("7");
