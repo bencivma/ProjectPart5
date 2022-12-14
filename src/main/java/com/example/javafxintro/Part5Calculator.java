@@ -54,7 +54,7 @@ public class Part5Calculator extends Application {
         Button num8 = new Button("8");
         pane.add(num8, 22, 20);
 
-        Button times = new Button("X");
+        Button times = new Button("×");
         pane.add(times, 24, 20);
 
         Button num9 = new Button("9");
